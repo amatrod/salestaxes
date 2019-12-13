@@ -1,0 +1,13 @@
+exemptBasicTaxApplicableIs0
+notExemptBasicTaxApplicableIs10
+importTaxApplicableIs5
+notImportTaxApplicableIs0
+checkBasicTaxesAppliedExempt
+checkBasicTaxesApplied
+checkImportDutyAppliedExempt
+checkImportDutyApplied
+checkChartSalesTaxes
+checkChartTotal
+checkInput1
+checkInput2
+checkInput3
